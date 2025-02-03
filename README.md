@@ -134,17 +134,3 @@ TD1/
 2. Lancer `Main.kt` avec ▶️.
 3. Vérifier les résultats affichés dans la console.
 
-### **2️⃣ Tester chaque fonction avec JUnit**
-1. Installer `JUnit 5` si besoin.
-2. Créer des fichiers de test dans `src/test/kotlin/td1/`.
-3. Exécuter les tests avec **Run All Tests**.
-
----
-
-## ✅ **Conclusion**
-- Ce TD couvre **la génération aléatoire, les statistiques, les polynômes et la programmation fonctionnelle en Kotlin**.
-- Les **tests unitaires garantissent la validité des résultats**.
-- L'utilisation de **`apply` et `generateSequence` simplifie la programmation fonctionnelle**.
-
-🚀 **Projet bien structuré et prêt à être utilisé pour d'autres TDs !**
-
