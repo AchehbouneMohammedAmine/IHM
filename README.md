@@ -8,10 +8,7 @@ Chaque exercice est implémenté dans un fichier dédié avec des classes et des
 
 ## 📂 **Structure du projet**
 ```
-TD1/
-│── src/
-│   ├── main/
-│   │   ├── kotlin/
+IHM/
 │   │   │   ├── td1/
 │   │   │   │   ├── Main.kt
 │   │   │   │   ├── MathUtils.kt
@@ -20,7 +17,6 @@ TD1/
 │   │   │   │   ├── Statistics.kt
 │   │   │   │   ├── Sequences.kt
 │── README.md
-│── pom.xml (si Maven)
 ```
 
 ---
